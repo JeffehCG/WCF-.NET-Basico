@@ -1,0 +1,10 @@
+C:\Users\jefferson.gomes\source\repos\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.exe.config
+C:\Users\jefferson.gomes\source\repos\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.exe
+C:\Users\jefferson.gomes\source\repos\Passagens\ConsumindoServico\bin\Debug\ConsumindoServico.pdb
+C:\Users\jefferson.gomes\source\repos\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.csprojAssemblyReference.cache
+C:\Users\jefferson.gomes\source\repos\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.Form1.resources
+C:\Users\jefferson.gomes\source\repos\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.Properties.Resources.resources
+C:\Users\jefferson.gomes\source\repos\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.GenerateResource.cache
+C:\Users\jefferson.gomes\source\repos\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.gomes\source\repos\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.exe
+C:\Users\jefferson.gomes\source\repos\Passagens\ConsumindoServico\obj\Debug\ConsumindoServico.pdb
