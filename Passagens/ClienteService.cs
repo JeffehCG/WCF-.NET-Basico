@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,11 +11,11 @@ namespace Passagens
 {
     public class ClienteService : IClienteService
     {
-        public bool Add(string nome, string cpf)
+        public bool Add(Cliente cliente)
         {
             Cliente c = new Cliente();
-            c.Nome = nome;
-            c.Cpf = cpf;
+            c.Nome = cliente.Nome;
+            c.Cpf = cliente.Cpf;
             ClienteDao dao = new ClienteDao();
             dao.Add(c);
             return true;

@@ -9,3 +9,14 @@ C:\Users\jefferson.gomes\source\repos\Passagens\Hosting\obj\Debug\Hosting.csproj
 C:\Users\jefferson.gomes\source\repos\Passagens\Hosting\obj\Debug\Hosting.csproj.CopyComplete
 C:\Users\jefferson.gomes\source\repos\Passagens\Hosting\obj\Debug\Hosting.exe
 C:\Users\jefferson.gomes\source\repos\Passagens\Hosting\obj\Debug\Hosting.pdb
+C:\Users\jefferson.gomes\Documents\GitHub\WCF-.NET-Basico\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\jefferson.gomes\Documents\GitHub\WCF-.NET-Basico\Hosting\bin\Debug\Hosting.exe
+C:\Users\jefferson.gomes\Documents\GitHub\WCF-.NET-Basico\Hosting\bin\Debug\Hosting.pdb
+C:\Users\jefferson.gomes\Documents\GitHub\WCF-.NET-Basico\Hosting\bin\Debug\Passagens.dll
+C:\Users\jefferson.gomes\Documents\GitHub\WCF-.NET-Basico\Hosting\bin\Debug\Passagens.pdb
+C:\Users\jefferson.gomes\Documents\GitHub\WCF-.NET-Basico\Hosting\bin\Debug\Passagens.dll.config
+C:\Users\jefferson.gomes\Documents\GitHub\WCF-.NET-Basico\Hosting\obj\Debug\Hosting.csprojAssemblyReference.cache
+C:\Users\jefferson.gomes\Documents\GitHub\WCF-.NET-Basico\Hosting\obj\Debug\Hosting.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.gomes\Documents\GitHub\WCF-.NET-Basico\Hosting\obj\Debug\Hosting.csproj.CopyComplete
+C:\Users\jefferson.gomes\Documents\GitHub\WCF-.NET-Basico\Hosting\obj\Debug\Hosting.exe
+C:\Users\jefferson.gomes\Documents\GitHub\WCF-.NET-Basico\Hosting\obj\Debug\Hosting.pdb

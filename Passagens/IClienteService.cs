@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ServiceModel;
 using System.ServiceModel.Web;
+using System.IO;
 
 //Arquivo de contrato do WCF, que define o que o pode ser feito no serviço
 //Para adicionar o serviço clique com o botão direito em App.config/Editar Configurações do WCF
@@ -34,8 +35,8 @@ namespace Passagens
         //Altere o nome do comportamento, click em Add, e webHttp
         //Depois é preciso associar ao endpoint criado em Services/ (NomeServico) / Endpoints e alterar em behaviorConfiguration
         //Alterar tambem o Binding para webHttpBinding
-        [WebInvoke(Method = "GET", ResponseFormat = WebMessageFormat.Xml, UriTemplate = "addCliente/{nome};{cpf}")]
-        bool Add(string nome, string cpf);
+        [WebInvoke(Method = "POST", ResponseFormat = WebMessageFormat.Json, RequestFormat = WebMessageFormat.Json, UriTemplate = "addCliente/")]
+        bool Add(Cliente cliente);
 
         //Listando Clientes
         [OperationContract]
